@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/filipedeschamps/meu-primeiro-jogo-multiplayer/master/assets/img1.jpg" width="100" height="200">
+   <img src="https://raw.githubusercontent.com/filipedeschamps/meu-primeiro-jogo-multiplayer/master/img1.jpg" width="100" height="200">
 </p>
 
 # Nubank ui clone
