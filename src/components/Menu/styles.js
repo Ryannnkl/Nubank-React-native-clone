@@ -13,17 +13,18 @@ export const QRCode = styled.Image.attrs({
 })`
   width: 80px;
   height: 80px;
-  border-radius: 10px;
 `;
 export const Nav = styled.View`
   margin-top: 30px;
   border-top-width: ${StyleSheet.hairlineWidth}px;
   border-top-color: rgba(255,255,255,0.8);
 `;
+
 export const NavItem = styled.View`
   flex-direction: row;
   align-items: center;
-  padding: 12px 0;
+  justify-content: space-between;
+  padding: 12px 5px;
   border-bottom-width: ${StyleSheet.hairlineWidth}px;
   border-bottom-color: rgba(255,255,255,0.8);
 `;
@@ -45,5 +46,5 @@ export const SingOut = styled.TouchableOpacity`
 export const SingOutText = styled.Text`
   color: #fff;
   font-weight: bold;
-  font-size: 13px;
+  font-size: 14px;
 `;
