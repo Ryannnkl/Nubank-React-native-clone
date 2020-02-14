@@ -9,6 +9,8 @@
 ## usado o react-native/EXPO
 
 - o intuito é apenas a pratica com a API de animações ```Animated``` do react-native
+- estilisado com Styled-components (unica dependencia instalada manualmente)
+- sem funcionalidades por inquanto...
 
 ## Autor
 
