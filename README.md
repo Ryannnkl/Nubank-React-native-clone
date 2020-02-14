@@ -1,5 +1,7 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Ryannnkl/Nubank-react-native/master/img1.jpg" width="100" height="200">
+   <img src="https://raw.githubusercontent.com/Ryannnkl/Nubank-react-native/master/img1.jpg" width="200" height="300">
+   <img src="https://raw.githubusercontent.com/Ryannnkl/Nubank-react-native/master/img2.jpg" width="200" height="300">
+   <img src="https://raw.githubusercontent.com/Ryannnkl/Nubank-react-native/master/img3.jpg" width="200" height="300">
 </p>
 
 # Nubank ui clone
